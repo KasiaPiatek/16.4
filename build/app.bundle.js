@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: SyntaxError: D:/KODILLA/JAVASCRIPT/16.04zad/src/index.js: Unexpected token (7:4)\n\n  5 | \n  6 | ReactDOM.render(\n> 7 |     <App />,\n    |     ^\n  8 |     document.getElementById('app')\n  9 | );\n");
+throw new Error("Module build failed: SyntaxError: D:/KODILLA/JAVASCRIPT/16.04zad/src/index.js: Unexpected token (6:4)\n\n  4 | \n  5 | ReactDOM.render(\n> 6 |     <App />,\n    |     ^\n  7 |     document.getElementById('app')\n  8 | );\n");
 
 /***/ })
 /******/ ]);
