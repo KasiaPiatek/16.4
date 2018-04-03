@@ -20,7 +20,6 @@ module.exports = {
                         loader: 'css-loader',
                         options: {
                             modules: true,
-                            presets: ['es2015', 'react'],
                         }
                     }
                 ]
