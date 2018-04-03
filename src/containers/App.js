@@ -28,7 +28,7 @@ class App extends React.Component {
         <div className={style.TodoApp}>
             <Title title={'title'}
              length={this.state.data.length}
-            nic={'nic'}
+            
             />
         </div>
 
